@@ -62,6 +62,7 @@ Classe principal responsável por gerenciar a interface do usuário e todas as f
 - **Bruno Pereira**
 - **Bruno Massaro**
 - **Luigi Tomassone**
+- **Vinicius Tinoco**
 
 ## Licença
 
